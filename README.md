@@ -51,6 +51,6 @@
 
 ###
 
-https://github-profile-trophy.vercel.app/?username=fortunathomas&no-bg=true&no-frame=true
+[![trophy](https://gh-trophy.cdnsoft.net/?username=fortunathomas&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
