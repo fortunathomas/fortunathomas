@@ -50,3 +50,7 @@
 <img src="https://raw.githubusercontent.com/fortunathomas/fortunathomas/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fortunathomas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
