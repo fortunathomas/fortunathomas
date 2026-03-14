@@ -74,7 +74,7 @@
 ###
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortunathomas&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortunathomas&theme=transparent&show_icons=true&layout=compact&langs_count=7&hide_border=true) <br> 
  
 </div>
 <br clear="both">
