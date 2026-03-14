@@ -81,3 +81,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/fortunathomas/fortunathomas/output/snake.svg" alt="Snake animation" />
+
+
+
+
+<!--alt    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> -->
