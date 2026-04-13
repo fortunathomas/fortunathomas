@@ -73,10 +73,10 @@
 
 ###
 <div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortunathomas&theme=transparent&show_icons=true&layout=compact&langs_count=7&hide_border=true)
+ 
+  ![Top Langs](https://github-profile-trophy-kannan.vercel.app/?username=fortunathomas&theme=transparent&show_icons=true&layout=compact&langs_count=7&hide_border=true)
       <img src="https://github-readme-stats.vercel.app/api?username=fortunathomas&theme=transparent&show_icons=true&layout=compact&hide_border=true" />
-  </p>
+      
 </div>
 <br clear="both">
 
